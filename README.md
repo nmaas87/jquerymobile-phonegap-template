@@ -4,7 +4,7 @@
 
 ### PhoneGap CLI
 
-    $ phonegap create my-app --template https://github.com/loiane/jquerymobile-phonegap-template
+    $ phonegap create my-app --template https://github.com/nmaas87/jquerymobile-phonegap-template
 
 ### Desktop
 
